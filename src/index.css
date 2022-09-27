@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+
+h1,h2,h3,h4, ul, p{
+margin-top: 0;
+margin-bottom: 0;
+color: rgb(37, 130, 223);
+}
+
+ul{
+    padding-left: 0;
+    list-style: 0;
+    list-style: none;
+}
+img{
+    display: block;
+}
